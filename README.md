@@ -1,18 +1,11 @@
-<table width="100%">
-  <tr>
-    <td width="60%">
-      <h1>Hi 👋, I'm <span style="color:#00C9A7">Parvez</span></h1>
-      <h3>🚀 Full Stack Developer | MERN Stack Expert</h3>
-      <p>
-        I craft dynamic, performant full stack web apps using the <strong>MERN stack</strong>. <br />
-        Always learning, always building. Let’s code the future! 🌐⚡
-      </p>
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
-    </td>
-  </tr>
-</table>
+<h1 align="center">Hi 👋, I'm Parvez</h1>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack Expert</h3>
+
+<p align="center">
+  I love building modern, scalable web apps using the power of MERN stack. <br />
+  With 3+ years of hands-on coding, I focus on clean architecture and performance-driven solutions. <br /><br />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 
 ---
 
@@ -76,8 +69,8 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prvzalm&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prvzalm&layout=compact&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prvzalm&show_icons=true&theme=calm" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prvzalm&layout=compact&theme=calm" width="48%">
 </p>
 
 ---
